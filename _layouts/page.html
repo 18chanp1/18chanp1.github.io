@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% if page.type == "about" %}
+<div class="page">
+  <h1 class="page-title">Welcome to the site!</h1>
+  {{ content }}
+</div>
+
+{% else %}
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+</div>
+{%  endif  %}
+
