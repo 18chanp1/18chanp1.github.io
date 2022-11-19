@@ -33,6 +33,8 @@ github_username:  18chanp1
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 
 
