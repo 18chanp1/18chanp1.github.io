@@ -71,7 +71,7 @@ baseurl:          /
 
 author:
   name:           'Paco Chan'
-  url:            18chanp1@github.io
+  url:            http://18chanp1.github.io
 
 paginate:         5
 
