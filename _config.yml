@@ -20,12 +20,13 @@
 
 
 
-title: Bill
+title: Beaker
 email: 18chanp1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A UBC Computer Engineering student's site
+  A UBC Computer Engineering student's site. Because what kind of CS student
+  doesn't have a website?
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "18chanp1.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: 18chanp1.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  18chanp1
 
 # Build settings
@@ -58,14 +59,13 @@ plugins:
 exclude: 
  - samples
 
-# Permalinks
+#Permalinks
 # permalink:        pretty
 # relative_permalinks: true
 
 # Setup
 title:            Beaker
-tagline:          'A Jekyll theme'
-description:      "A UBC CPEN student's site"
+tagline:          A UBC CPEN student's site
 url:              18chanp1.github.io/
 baseurl:          /
 
