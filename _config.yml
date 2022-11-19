@@ -66,8 +66,8 @@ exclude:
 # Setup
 title:            Beaker
 tagline:          A UBC CPEN student's site
-url:              18chanp1.github.io
-baseurl:          /
+# url:              18chanp1.github.io
+# baseurl:          /
 
 author:
   name:           'Paco Chan'
