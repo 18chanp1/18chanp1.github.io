@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
+
 title: Bill
 email: 18chanp1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -30,6 +32,8 @@ github_username:  18chanp1
 theme: minima
 plugins:
   - jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +57,31 @@ plugins:
 
 exclude: 
  - samples
+
+# Permalinks
+# permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Beaker
+tagline:          'A Jekyll theme'
+description:      "A UBC CPEN student's site"
+url:              18chanp1.github.io/
+baseurl:          /
+
+author:
+  name:           'Paco Chan'
+  url:            18chanp1@github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/18chanp1
+
+highlighter:      pygments
+markdown:         kramdown
+
+plugins: [jekyll-paginate]
