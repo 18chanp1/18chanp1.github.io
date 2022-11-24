@@ -18,7 +18,7 @@ once a term, myself included.
 
 What helped me a lot with managing expectations and calming my nerves,
 was someone's first hand experiences, a guide through the forest. 
-For a while, this was primarily *Reddit* and *ratemyprofessor.com*. 
+For a while, this was primarily *Reddit* and *ratemyprofessors.com*. 
 However, these resources have a significant limitation in that users
 typically reply in short form answers and do not go into much
 detail about their experiences from the course. Moreover, they were

@@ -32,29 +32,28 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
 }
 
 h1 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
 } 
 
 h2 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
 } 
 
 h3 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
 }
 
 h4 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
 }
 
 .posts p {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
   text-align: justify;
-  text-justify: auto;
 }
 
 
@@ -104,7 +103,7 @@ h4 {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "IBM Plex Sans", serif;
   font-size: 3.25rem;
 }
 
