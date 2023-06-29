@@ -12,12 +12,10 @@ Unlike CPEN second year, third year is actually a much more relaxing ride unlike
 As a third year student, you are unlikely to be able to register for any advanced electives this year because they fill up quickly. I'd recommend getting your free electives (non ECE courses) done this year instead like I did. 
 
 ## CPEN 331 - Operating systems
-Language: C
-Tools: GDB, os-161.
-
-Textbooks: There are some readings but no textbook
-
-Professor: Alexandra Federova
+- Language: C
+- Tools: GDB, os-161.
+- Textbooks: There are some readings but no textbook
+- Professor: Alexandra Federova
 
 ### Verdict
 - Workload: 4.5/5
@@ -54,14 +52,14 @@ I also really hate OS161 since it is a maze to navigate through all the files.
     your code is "safe". The remaining 40% is given for code style (and is
     basically free marks). They do take lots of time, so start early. In addition, it is
     also a pain to get OS161 working (maybe just for me because mac) because there are
-    often a bunch of failures in the install script.  
+    often a bunch of failures in the install script.    
 
     You will notice there are lots of OS161 repos out there with completed implementations.
     As an advocate of work smart, not work hard, the code out there is a good reference, 
     but only if you understand what it is doing. Copying it without understanding what is 
     going on is a surefire way to get caught (the instructor knows that tons of solutions
     are lying around online). With the generous grading scheme in this course, it is often
-    not worth it to copy. Use it as a tool for understanding.  
+    not worth it to copy. Use it as a tool for understanding.    
 
     I'd also like to plug the website [Pearls in life](http://jhshi.me/blog/category/os161/index.html). This site was incredibly helpful in guiding your implementation. It basically tells
     you what you need to do, short of giving you the code.  
@@ -70,7 +68,7 @@ I also really hate OS161 since it is a maze to navigate through all the files.
     how you wrote it, and how you debugged it. Essentially, it is like a CPEN 211 demo. The oral
     exam is really chill as long as you know what you're doing, and you didn't copy the code. 
     Some TAs are really clueless, so just speak really quickly and hope they get confused 
-    themselves. This is a pass/fail mark, so its basically free marks
+    themselves. This is a pass/fail mark, so its basically free marks.  
 3. In class clickers - 10%
    Standard clicker questions. Not free marks and somewhat difficult. 
    Some of them you can discuss, others you cannot. 
@@ -78,7 +76,7 @@ I also really hate OS161 since it is a maze to navigate through all the files.
    can go through them the night before and select your answers. 
    I personally hate this teaching style since my mind is 
    preoccupied with the clicker questions. Fortunately, 
-   some kind soul has put all the quiz on their github repo. 
+   some kind soul has put all the quiz on their github repo.  
 
 ### Course Experience
 A moderate course that takes time, but the marking scheme is really generous
@@ -114,7 +112,7 @@ and other stat topics that I have completely forgotten.
    A test of the content covered in class. The midterm was fairly reasonable,
    and if you understood the class content and examples, you could answer the
    questions in the time given. Final was also similar, but there was one 
-   unsolvable question. There are plenty of practice questions / past exams.     
+   unsolvable question. There are plenty of practice questions / past exams.      
 2. Webwork - 10% @ 1% x 10. 
    Gives you good practice for content in class and for the exams. They are
    limited attempts which I hate, but the webworks have solutions someone has
@@ -124,20 +122,20 @@ and other stat topics that I have completely forgotten.
    Dedicated lab session weekly. You work in assigned groups to complete the 
    lab within the session. Its nice since its basically just 1 hour of work.
    Graded pretty leniently. You get to practice R. The professor always
-   threatens to put an R question on the exam, but I have never seen one. 
+   threatens to put an R question on the exam, but I have never seen one.  
 4. Written assignments - 10%, @5% x 2
    Two written assignments that are relatively simple. On distributions.
    Find a partner to verify your answers to ensure no silly mistakes since
-   it is straightforward to complete. 
+   it is straightforward to complete.  
 5. Clickers - 5%
     Happen every class. 1 point for participation, 1 point for correctness.
     You can discuss with people around you. Moderate difficulty, but he
-    does give freebies close to the end of term when no one shows up. 
+    does give freebies close to the end of term when no one shows up.  
 6. Bonus - 1% for completing the survey  
    This one is a scam. He claims to give out 1% extra if 70% of people finish
    the teaching survey, but I think he says this because he knows that it is
    basically impossible to get 70% of the class to do something. He even gives in
-   class time. Let me know if he actually does give out that 1%. 
+   class time. Let me know if he actually does give out that 1%.  
 
 ### Course experience  
 A well taught class that covers everything you need to know in the lectures. Relatively
