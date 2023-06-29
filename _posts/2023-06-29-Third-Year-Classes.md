@@ -63,12 +63,14 @@ I also really hate OS161 since it is a maze to navigate through all the files.
 
     I'd also like to plug the website [Pearls in life](http://jhshi.me/blog/category/os161/index.html). This site was incredibly helpful in guiding your implementation. It basically tells
     you what you need to do, short of giving you the code.  
+    
 2. Oral Exam - 20%  
     For this part, you will basically show your code to the TA or the instructor and explain it,
     how you wrote it, and how you debugged it. Essentially, it is like a CPEN 211 demo. The oral
     exam is really chill as long as you know what you're doing, and you didn't copy the code. 
     Some TAs are really clueless, so just speak really quickly and hope they get confused 
     themselves. This is a pass/fail mark, so its basically free marks.  
+
 3. In class clickers - 10%
    Standard clicker questions. Not free marks and somewhat difficult. 
    Some of them you can discuss, others you cannot. 
@@ -112,25 +114,30 @@ and other stat topics that I have completely forgotten.
    A test of the content covered in class. The midterm was fairly reasonable,
    and if you understood the class content and examples, you could answer the
    questions in the time given. Final was also similar, but there was one 
-   unsolvable question. There are plenty of practice questions / past exams.      
+   unsolvable question. There are plenty of practice questions / past exams. 
+
 2. Webwork - 10% @ 1% x 10. 
    Gives you good practice for content in class and for the exams. They are
    limited attempts which I hate, but the webworks have solutions someone has
    kindly posted on their github, and they are standard questions from which
    I think you can find the solution on the webwork github.  
+
 3. Labs - 8% @ 1% x 8, weekly
    Dedicated lab session weekly. You work in assigned groups to complete the 
    lab within the session. Its nice since its basically just 1 hour of work.
    Graded pretty leniently. You get to practice R. The professor always
    threatens to put an R question on the exam, but I have never seen one.  
+
 4. Written assignments - 10%, @5% x 2
    Two written assignments that are relatively simple. On distributions.
    Find a partner to verify your answers to ensure no silly mistakes since
    it is straightforward to complete.  
+
 5. Clickers - 5%
     Happen every class. 1 point for participation, 1 point for correctness.
     You can discuss with people around you. Moderate difficulty, but he
     does give freebies close to the end of term when no one shows up.  
+
 6. Bonus - 1% for completing the survey  
    This one is a scam. He claims to give out 1% extra if 70% of people finish
    the teaching survey, but I think he says this because he knows that it is
