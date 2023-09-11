@@ -63,7 +63,7 @@ I also really hate OS161 since it is a maze to navigate through all the files.
 
     I'd also like to plug the website [Pearls in life](http://jhshi.me/blog/category/os161/index.html). This site was incredibly helpful in guiding your implementation. It basically tells
     you what you need to do, short of giving you the code.  
-    
+
 2. Oral Exam - 20%  
     For this part, you will basically show your code to the TA or the instructor and explain it,
     how you wrote it, and how you debugged it. Essentially, it is like a CPEN 211 demo. The oral
@@ -157,8 +157,113 @@ Do the practice questions. Otherwise pretty straightforward.
 ## CPEN 322 - Web applications
 - Languages: Javascript
 - Tools: Node.JS, mongoDB
-  
-# Course Experience
+- Textbooks: none
 
-To be finished. 
+### Verdict
+- Workload: 3/5
+- Difficulty: 3/5
+- Usefulness: 4/5
+
+A basic introduction to web apps and technologies behind them. You will be
+introduced to the frameworks behind which websites and webapps operate, and
+fundamental concepts that will be useful. These include asynchronous operation,
+promises, characteristics of object oriented programming in javascript, closures,
+event handling, DOM manipulation, AJAX, files, streams, databases, REST API, and
+some basic cybersecurity.  
+
+### Breakdown
+- Assignments: 40% @ 8% x 1  
+    Over the course of 5 assignments, you will create a web app with more and more
+    features. They are autograded and tests are provided to you. Other than checking
+    for hardcoding, there is no manual grading. They are relatively straightforward
+    and easy. They give you experience implementing theoretical concepts into something
+    tangible.  
+
+- Programming proficiency test: 5%  
+  Just basic for loops and programming to make sure you are familiar with javascript.
+  Pretty straightforward, unlike CPEN 221.
+
+- Weekly quizzes: 12% @ 1%
+  You will watch ~2 hours of videos covering the content you will need to know. After
+  that, you will complete a canvas quiz on the videos. Medium difficulty, and you
+  need to read carefully. I personally hate these timed quizzes but fortunately someone
+  has posted solutions on github.  
+
+- Midterm / Exam 12/25%
+  CPEN 221 style leetcode questions on concepts covered in class. There is
+  insufficient time to do the questions considering the difficulty, and most people
+  just get 50% of the questions. Autograded but test cases provided.  
+
+### Course Experience
+Personally I hate flipped lecture classes because they burn twice as much time
+as normal classses since you have to watch videos AND attend lectures, which
+are basically where he goes over examples. The exams are also incredibly difficult
+to make up for the free marks for the assignments. 
+
+Overall a reasonable class. 
+
+### Recommendations
+- Actively participate and get your Node JS running in your console to try
+  the in class examples. This will help your learning.
+- Try using typescript (if you have time) and transpiling to JS for your assignments.
+  The type checking will reduce errors and debug time. Dynamic typing is the worst
+  for creating all sorts of weird bugs.
+- The instructor has a really flexible policy of replacing any of the assignment / 
+  midterm marks if you do not attend. The weight will be transferred to the final
+  accordingly, but this is basically a triple edged sword since the assignments are
+  free marks, while the final is incredibly difficult. Don't do it. 
+
+## CPSC 320 - Intermediate algorithms
+WARNING: The class varies quite a bit depending on who is teaching it. This is a class taught by Patrice Belleville and Susanne Bradley
+
+- Languages: Pseudocode
+- Tools: Pen and paper, Latex
+- Textbooks: Algorithm Design (Jon Kleinberg, Eva Tardos)
+
+### Verdict:
+- Workload: 4.5/5
+- Difficulty: 4/5
+- Usefulness: 5/5
+
+### Breakdown
+|     |     |
+| --- | --- |
+| Assignments (5) | 30% |
+| Take-home Tests (2) | 20% |
+| Midterm | 15% |
+| Final Exam | 30% |
+| Pre-class Quizzes | 3%  |
+| Tutorial Quizzes | 2%  |
+
+Assignments cover the content of the class and are incredibly useful to understand the content covered and ensure you know what you are doing. They are written in latex, and can take a very long time (i.e. a whole weekend) to do. You are allowed to work with partners.  
+
+Take home tests are relatively straightforward and cover content in the class. The average is quite high, and involves applying what you have learned.  
+
+Midterms and exams are similar to take home tests in that they cover the application of the content. They are however, pretty annoying logistically, requiring you to come in at 7pm in the evening for a 2 hour midterm. This is because there is an individual and group exam. You first take the exam individually, covering 85% of your grade, and then you can work with your teammates of your choice on the same exam. This covers the remaining 15% of your grade.    
+
+Pre class quizzes involved reading the textbook and answering a few questions on canvas. Not always straightforward since it is hard to understand the concepts in the textbook in the first reading.   
+
+Tutorial quizzes are run once every two weeks in tutorials (approximately). Graded on "apparent effort", but just encouragement for one to show up for tutorials. Relatively easy and gives you hints for the upcoming homework, which will be necessary due to the difficulty of the homework. 
+
+
+### Course experience
+Once again, a very well run CPSC course, even if difficult. Everything is clear and well scheduled. Class time is reserved on working on worksheets together. Worksheets guide you through concepts and solving a standard algorithms problem. Time is given in class to work on the worksheets. They are not graded.   
+
+Tutorials cover rather difficult problems that sometimes the TAs get confused themselves. The tutorial quizzes are more useful since they provide hints to approach the upcoming homework problem.  
+
+### Recommendations
+Even if you can work on the homework problems with a partner, considering working on the whole assignment yourself, then cross checking. This will be helpful for the exams. 
+
+You can skip the tutorials (but not the tutorial quizzes).
+
+Don't skip the lectures, they are useful.  
+
+# Some electives
+You can take some free electives to fill your timetable, since you won't be able to sign up for cpen advanced electives since you will be missing prereqs, and your registration priority will ensure you never get in anyways.  
+
+### BIOL 111 - Biology
+Textbook: 
+To be continued
+
+
   
