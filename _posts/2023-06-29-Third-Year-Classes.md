@@ -261,9 +261,51 @@ Don't skip the lectures, they are useful.
 # Some electives
 You can take some free electives to fill your timetable, since you won't be able to sign up for cpen advanced electives since you will be missing prereqs, and your registration priority will ensure you never get in anyways.  
 
-### BIOL 111 - Biology
-Textbook: 
-To be continued
+## BIOL 111 - Biology
+Textbook: Life Matters, Tophat
+
+### Verdict
+- Workload: 3.5/5
+- Difficulty: 2.5/5
+- Usefulness: 2/5
+
+### Breakdown
+- Reading assignments - 15%, weekly
+    You have to read the assigned reading, and watch videos embedded inside with weekly quizzes. Not always straightforward.  
+- In class assignments - 15%, weekly
+    You have to go to class and complete group assignments with a team you pick (based on where you sit). Worksheets. Submit on canvas. Grading dependent on TA that grades your work.
+- Poster assignment - 5%
+     Make a poster, topic varies yearly.  
+- Unit activity - 5%
+    Varies yearly. 
+- Unit 3 activity - 20%
+    You have to make a video + supporting material (poster) with your team.  
+- Beaty project - 5%
+    You have to visit the Beaty Biodiversity museum and complete a worksheet.  
+- Midterm exam - 10%
+    Covers content.
+- Final Exam - 25%
+    Covers content.
+
+### Course Experience
+Overall, I felt like this course had too much handholding. Assignments are chopped up into bite-sized pieces as not to hurt the feelings of 1st year students when they do badly (not 100%) on them. The target market of this class, 1st year students is probably a mismatch for a 3rd year student like myself. Excessive reading and attendance marking really detracts from this class since it is annoying, and serves only help 1st year students not to ditch class and come crying after exams. 
+
+Many students refuse to shower, resulting in a stench permeating though the lecture hall. 
+
+There are so many activities and posters that are such a waste of time, and make me feel like a high school student. Who makes posters in university any more? The Beaty project is just a field trip, and a waste of my time. The largest source of visitors of the Beaty museum are students that are forced to go there for Biology 111, given even the guy who sells the tickets just asked me if I was coming for BIOL 111.
+
+I also did not enjoy the shakedown where we were forced to buy the Tophat subscription to the textbook, which was revoked after the final exam. This was needed to do the reading questions, and is just a blatant shakedown attempt by the class. They should just put the questions on canvas instead.
+
+I really disliked the flipped lecture format since it burns so much more time than necessary. The lecture time is used for "kiddie" group activities that are pointless instead of concrete lecturing. 
+
+The only saving grace in taking the class is that it should be pretty straightforward and easy for a third year student like yourself, and you will feel like you are smurfing when competing against the 1st year students that are struggling to adapt. You will solve the midterm / exam questions in a breeze since this will be your nth exam, while the 1st year students start crying about the difficulty and asking for bonus marks. If you did any amount of studying for the exam, you will probably be ahead of the crowd. 
+
+### Recommendations
+Don't take it. Take Biol 121 directly, if you can. 
+
+
+
+
 
 
   
