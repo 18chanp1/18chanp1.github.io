@@ -9,11 +9,10 @@ title: Home
     <h1 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
-        {{post.short}}
       </a>
     </h1>
-
     <span class="post-date">{{ post.date | date_to_string }}</span>
+    {{post.short}}
 
     <!-- {{ post.content }} -->
   </div>

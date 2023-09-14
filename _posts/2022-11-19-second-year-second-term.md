@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CPEN 2nd year, Part 2
+short: Less hell, for now
 ---
 
 # CPEN 212, 291; ELEC 201; CPSC 221 Review
