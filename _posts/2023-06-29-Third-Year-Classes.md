@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CPEN 3rd year, Part 1
+short: Unlike CPEN second year, third year is actually a much more relaxing ride unlike our friends in electrical engineering. It only gets better from here, and there is a substantial improvement in the workload of the courses. You get much more flexibility in choosing courses you like since you are not restricted by an STT, and you can also get your free electives done in third year.
 
 ---
 
